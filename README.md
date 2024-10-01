@@ -14,7 +14,7 @@ meatpacking final.csv: Contains county-level data from Census 2019 (must be in t
 GeoJSON data is automatically fetched from: https://raw.githubusercontent.com/CodeForCary/CountyDataUSA5m/refs/heads/master/cb_2017_us_county_5m.json<br>
 <br>
 *Installation*<br>
-bashCopy!pip install pandas geopandas matplotlib requests<br>
+Copy: !pip install pandas geopandas matplotlib requests<br>
 <br>
 *Usage*<br>
 Ensure all required libraries are installed<br>
